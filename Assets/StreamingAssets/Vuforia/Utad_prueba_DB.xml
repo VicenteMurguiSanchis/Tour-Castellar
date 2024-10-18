@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="wolf_image" size="20.000000 20.000000" />
+    <ImageTarget name="shield_image" size="20.000000 20.000000" />
+    <ImageTarget name="knight_image" size="20.000000 20.000000" />
+    <ImageTarget name="bear_image" size="20.000000 20.000000" />
+    <ImageTarget name="death" size="20.000000 20.000000" />
+    <ImageTarget name="sword_image" size="20.000000 20.000000" />
+    <ImageTarget name="rocket_marker_vuforia" size="16.000000 16.000000" />
+    <ImageTarget name="utad_marker_vuforia" size="16.000000 16.000000" />
+  </Tracking>
+</QCARConfig>

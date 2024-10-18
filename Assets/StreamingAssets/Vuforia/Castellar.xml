@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="template-markers_7" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers_9" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers_8" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers_1" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers_6" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers_6_1" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers_5" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers_4_1" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers_4" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers_3" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers_2" size="1.000000 1.000000" />
+    <ImageTarget name="template-markers" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
