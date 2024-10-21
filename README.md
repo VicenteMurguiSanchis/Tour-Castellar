@@ -2,21 +2,20 @@
 Tour Castellar is a mobile application that serves as a tourist
 guide for the Iberian site of **El Castellar** located in the municipality of
 Casinos. Application makes use of **augmented reality** technology to show 
-recreations and elements of the site, while offering information about the 
-historical context of the place to provide the experience with a high level 
-of quality for users who use it.
+recreations of buildings and elements of the site, while offering information about the 
+historical context of the place to provide users with a high quality experience.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/Imagen2.jpg)
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/Imagen1.png)
 
-The application allows you to reproduce informative sections for each of the areas of the site. This can be done using two different methods:
+The application allows you to reproduce informative sections for each of the areas of the site. This is done using two different methods:
 
-* **Vuforia**: Using Vuforia, the application allows you to detect markers on which the informative sections can be reproduced.
+* **Vuforia**: Using Vuforia the application allows you to detect markers on which the informative sections may be reproduced.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image25.gif)
 
-* **AR Foundation Plane Detector**: With AR Foundation, users can place where they want to play the section.
+* **AR Foundation Plane Detector**: With AR Foundation, users can choose where they want to play the section.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image24.gif)
 
@@ -47,11 +46,11 @@ symbol that will appear on the sign when it is placed.
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image35.gif)
 
 
-* **Second Minigame**: The second minigame allows users to place different objects typical of Iberian furniture of the time in a certain area.
+* **Second Minigame**: The second minigame allows users to place different Iberian objects/furniture typical of the time in a certain area.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image36.gif)
 
-Once the objects have been placed, the user can obtain information about each of the objects that have been placed in the place.
+Once the objects have been placed, the user can obtain information about each of the objects.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image37.gif)
 
