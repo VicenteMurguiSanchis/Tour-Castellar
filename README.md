@@ -5,7 +5,7 @@ Casinos. Application makes use of **augmented reality** technology to show
 recreations of buildings and elements of the site, while offering information about the 
 historical context of the place to provide users with a high quality experience.
 
-![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/Imagen8.gif)
+![alt text1](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/Imagen8.gif)
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/Imagen1.png)
 
