@@ -16,7 +16,7 @@ The application allows you to reproduce informative sections for each of the are
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image25.gif)
 
-* **ARFoundation Plane Detector**: With AR Foundation, users can place where they want to play the section.
+* **AR Foundation Plane Detector**: With AR Foundation, users can place where they want to play the section.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image24.gif)
 
@@ -45,3 +45,15 @@ based on the object that had been unearthed there. The user will be able to see 
 symbol that will appear on the sign when it is placed.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image35.gif)
+
+
+* **Second Minigame**: The second minigame allows users to place different objects typical of Iberian furniture of the time in a certain area.
+
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image36.gif)
+
+Once the objects have been placed, the user can obtain information about each of the objects that have been placed in the place.
+
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image37.gif)
+
+
+The application is intended to be used at the site, but the different sections can be reproduced anywhere using the AR Foundation plane detector.
