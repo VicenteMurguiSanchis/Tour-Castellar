@@ -25,3 +25,23 @@ on images and digital recreations of the structures and elements of the place.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image31.gif)
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image30.gif)
+
+The app also offers two mini-games that users can interact with while learning.
+
+* **First Minigame**: The first minigame allows the user to place a series of areas in which they can unearth objects.
+
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image32.gif)
+
+After this, the player can locate the buried objects and extract them with the object detector.
+
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image33.gif)
+
+Once the object has been unearthed, the user will be able to investigate and find out what kind of object they have discovered.
+
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image34.gif)
+
+Finally, the minigame allows the user to place a sign that indicates what type of room would correspond to the displayed area
+based on the object that had been unearthed there. The user will be able to see if the sign placed is correct by means of a
+symbol that will appear on the sign when it is placed.
+
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image35.gif)
