@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61674dfbf5c83ef4c8505ffdb39524d5, type: 3}
+  m_Name: Molino
+  m_EditorClassIdentifier: 
+  titulo: Molino manual
+  descripcion: "Los molinos manuales eran bastante comunes y los hab\xEDa de distintas
+    variedades. Estos estaban dise\xF1ados para moler peque\xF1as cantidades de grano
+    de cereal y convertirlo en s\xE9mola o harina, pudiendo as\xED elaborar pan."
+  objeto: {fileID: 21300000, guid: 9618a2cd2c6ab2a45b2cf60cc89e82ee, type: 3}
