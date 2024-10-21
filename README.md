@@ -15,6 +15,6 @@ The application allows you to reproduce informative sections for each of the are
 * **Vuforia**: Using Vuforia, the application allows you to detect markers on which the informative sections can be reproduced.
 
 
-![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/Imagen5.gif)
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image25.gif)
 
 * 
