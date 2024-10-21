@@ -14,7 +14,14 @@ The application allows you to reproduce informative sections for each of the are
 
 * **Vuforia**: Using Vuforia, the application allows you to detect markers on which the informative sections can be reproduced.
 
-
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image25.gif)
 
-* 
+* **ARFoundation Plane Detector**: With AR Foundation, users can place where they want to play the section.
+
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image24.gif)
+
+The sections show a fictional character named Aretaunin, who offers users the information in the section based 
+on images and digital recreations of the structures and elements of the place.
+
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image31.gif)
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image30.gif)
