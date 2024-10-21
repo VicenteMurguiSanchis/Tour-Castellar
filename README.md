@@ -10,3 +10,11 @@ of quality for users who use it.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/Imagen1.png)
 
+The application allows you to reproduce informative sections for each of the areas of the site. This can be done using two different methods:
+
+* **Vuforia**: Using Vuforia, the application allows you to detect markers on which the informative sections can be reproduced.
+
+
+![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/Imagen5.gif)
+
+* 
