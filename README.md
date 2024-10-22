@@ -23,9 +23,9 @@ on images and digital recreations of the structures and elements of the place.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image31.gif)
 
-The app also offers two mini-games that users can interact with while learning.
-
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image30.gif)
+
+The app also offers two mini-games that users can interact with while learning.
 
 * **First Minigame**: The first minigame allows the user to place a series of areas in which they can unearth objects.
 
