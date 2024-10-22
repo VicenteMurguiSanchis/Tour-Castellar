@@ -22,7 +22,6 @@ The sections show a fictional character named Aretaunin, who offers users the in
 on images and digital recreations of the structures and elements of the place.
 
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image31.gif)
-
 ![alt text](https://github.com/VicenteMurguiSanchis/Tour-Castellar/blob/main/Assets/CarpetaImagenes/image30.gif)
 
 The app also offers two mini-games that users can interact with while learning.
